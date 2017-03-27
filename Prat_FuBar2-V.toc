@@ -1,22 +1,22 @@
 ## Interface: 11200
 
-## Title: Prat_FuBar2 |cFF0000aa(Vanilla)|r |cff7fff7f -Ace2-|r
-## Notes: Module for Prat_Vanilla that add FuBar2 support
+## Title: Prat_FuBar2 |cFF0000aa(Vanilla)|r
+## Notes: Module for Prat-V that adds FuBar2 support
 ## Version: 1.0
-## Author: Prat Development Team
+## Author: Fulzamoth
 
 ## X-Category: Chat/Communication
-## X-Website: http://www.wowace.com/mediawiki/index.php?title=Prat
-## X-AceForum: 2404
+## X-Website: https://github.com/fulzamoth/Prat_FuBar2-V
 ## X-Credits: Ammo
+## X-Credits: Prat Development Team
 
-## Dependencies: Prat_Vanilla, FuBar
+## Dependencies: Prat-V, FuBar
 ## OptionalDeps: FuBarPlugin-2.0
 ## X-Embeds: FuBarPlugin-2.0
 
 ## SavedVariables: Prat_FuBar2DB
 
-Prat_FuBar2.lua
+main.lua
 icon.tga
 
 libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
